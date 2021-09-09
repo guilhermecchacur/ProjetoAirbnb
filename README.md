@@ -9,7 +9,7 @@
 Uma breve analise sobre os dados e variáveis dos anúncios do Airbnb na cidade de Amsterdam.
 
 
-**Links para me acharem:**
+**Links de Contato:**
 * [LinkedIn](linkedin.com/in/guilherme-cefaloni-chacur-48065616b)
 
 

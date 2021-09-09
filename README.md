@@ -8,12 +8,9 @@
 
 Uma breve analise sobre os dados e variáveis dos anúncios do Airbnb na cidade de Amsterdam.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
+* [LinkedIn](linkedin.com/in/guilherme-cefaloni-chacur-48065616b)
+
 
 
